@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">INUNIS</string>
+    <string name="INU">INUNIS</string>
+    <string name="Hello">BIENVENIDOS</string>
+    <string name="inunis">INUNIS</string>
+    <string name="creado_por_a_s">Creado por A.S</string>
+    <string name="salir">SALIR</string>
+    <string name="inicio">INICIO</string>
+    <string name="bienvenidos">BIENVENIDOS</string>
+    <string name="logo_description">Logo de INUNIS</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="nombre">Nombre</string>
+    <string name="todo">TODO</string>
+    <string name="direccion">Direccion</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Telefono</string>
+    <string name="registrar">Registrar</string>
+    <string name="cedula">Cedula</string>
+
+
+</resources>
